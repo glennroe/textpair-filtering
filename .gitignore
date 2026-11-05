@@ -1,0 +1,12 @@
+*.tsv
+*.txt
+*.log
+*.csv
+*.json
+*.jsonl
+*.lz4
+*.pkl
+__pycache__/
+*.ini
+!data/*.txt
+!data/*.json
